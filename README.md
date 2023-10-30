@@ -1,7 +1,9 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-sql-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-= Awesome -sql
+# Awesomes Sql
 
-受其他Awesome 列表启发的使用关系数据库的工具和技术列表。
+===========
+
+受其他令人敬畏的列表启发的使用关系数据库的工具和技术列表。
 
 - [Oracle](#Oracle)-专门用于Oracle和PL/SQL的软件和软件包。
 - [SQL-Server](#SQL-Server)-专门用于sql-server和t-sql的软件和软件包。
